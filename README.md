@@ -1,0 +1,2 @@
+# Fake News Detector Using Python
+ This project provides a fake news detection module built with Python using machine learning and natural language processing techniques. It involves preprocessing news text by cleaning and preparing it, extracting features with TF-IDF, and training a Logistic Regression model to classify articles as "Fake" or "Real." The project includes evaluation metrics to assess the model's accuracy and effectiveness, and a prediction function for testing new articles.
